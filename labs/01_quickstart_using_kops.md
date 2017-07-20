@@ -1,4 +1,4 @@
-## Prerequites
+## Prerequisites
 
 - Free Domain: k8s.coolbrain.ml (https://freenom.com)
 - [Kubernetes Install](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-via-curl)
