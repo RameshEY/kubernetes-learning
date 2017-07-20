@@ -1,7 +1,7 @@
 ## Prerequisites
 
 - AWS Free Tier
-- Free Domain: k8s.coolbrain.ml (https://freenom.com)
+- Free Domain: k8s.coolbrain.ml (http://freenom.com)
 - [AWS CLI](https://aws.amazon.com/cli/)
 - [Kubernetes](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-via-curl)
 - [Kops](https://github.com/kubernetes/kops)
