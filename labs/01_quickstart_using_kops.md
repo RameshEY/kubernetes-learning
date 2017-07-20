@@ -1,7 +1,9 @@
 ## Prerequisites
 
+- AWS Free Tier
 - Free Domain: k8s.coolbrain.ml (https://freenom.com)
-- [Kubernetes Install](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-via-curl)
+- [AWS CLI](https://aws.amazon.com/cli/)
+- [Kubernetes](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-via-curl)
 - [Kops](https://github.com/kubernetes/kops)
 
 ### Querying the AWS for identifing all regions to access
@@ -96,7 +98,7 @@ Output
 
 ```json
 {
-	paths: [
+	"paths": [
 		"/api",
 		"/api/v1",
 		"/apis",
