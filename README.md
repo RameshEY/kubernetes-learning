@@ -47,7 +47,15 @@ kubectl proxy
 kubectl get pods --all-namespaces --sort-by='.status.containerStatuses[0].restartCount' | awk '$5 > 0 {print $0}' | (read -r; printf "%s\n" "$REPLY"; sort -k5 -nr)
 ```
 
+## API References
+- [1.9](https://v1-9.docs.kubernetes.io/docs/api-reference/v1.9/)
+- [1.8](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/)
+- [1.7](https://v1-7.docs.kubernetes.io/docs/api-reference/v1.7/)
+- [1.6](https://v1-6.docs.kubernetes.io/docs/api-reference/v1.6/)
+
+## Articles
+- [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
 
 ## Links
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
-- [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
+
