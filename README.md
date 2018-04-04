@@ -47,6 +47,20 @@ kubectl proxy
 kubectl get pods --all-namespaces --sort-by='.status.containerStatuses[0].restartCount' | awk '$5 > 0 {print $0}' | (read -r; printf "%s\n" "$REPLY"; sort -k5 -nr)
 ```
 
+## Troubleshootings
+
+See what happened. ex) 'CrashLoopBackOff'
+
+```
+kubectl logs --previous myapp-osaka-43-7mcsd
+```
+
+Delete it
+
+```
+kubectl delete pod --namespace=xxxx `kubectl get pods --namespace=xxxx | awk '$3 == "CrashLoopBackOff" {print $1}'
+```
+
 ## API References
 - [1.9](https://v1-9.docs.kubernetes.io/docs/api-reference/v1.9/)
 - [1.8](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/)
