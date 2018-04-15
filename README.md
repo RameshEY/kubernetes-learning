@@ -68,6 +68,7 @@ kubectl delete pod --namespace=xxxx `kubectl get pods --namespace=xxxx | awk '$3
 - [1.6](https://v1-6.docs.kubernetes.io/docs/api-reference/v1.6/)
 
 ## Articles
+- [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
 - [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
 
 ## Links
