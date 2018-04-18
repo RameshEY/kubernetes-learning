@@ -62,12 +62,23 @@ kubectl delete pod --namespace=xxxx `kubectl get pods --namespace=xxxx | awk '$3
 ```
 
 ## API References
+- [1.10](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/)
 - [1.9](https://v1-9.docs.kubernetes.io/docs/api-reference/v1.9/)
 - [1.8](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/)
 - [1.7](https://v1-7.docs.kubernetes.io/docs/api-reference/v1.7/)
 - [1.6](https://v1-6.docs.kubernetes.io/docs/api-reference/v1.6/)
 
+## Clustering
+- [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+
+## Plugins
+- [Extend kubectl with plugins](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/)
+- [CNCF Networking plugins](https://github.com/containernetworking/plugins)
+- [CNI 3rd party plugins](https://github.com/containernetworking/cni#3rd-party-plugins)
+- [Network plugins for kubernetes](https://www.slideshare.net/inwinstack/network-plugins-for-kubernetes)
+
 ## Articles
+- [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
 - [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
 
