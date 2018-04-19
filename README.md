@@ -77,6 +77,10 @@ kubectl delete pod --namespace=xxxx `kubectl get pods --namespace=xxxx | awk '$3
 - [CNI 3rd party plugins](https://github.com/containernetworking/cni#3rd-party-plugins)
 - [Network plugins for kubernetes](https://www.slideshare.net/inwinstack/network-plugins-for-kubernetes)
 
+## Tutorials
+- [AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)
+- [Package your Kubernetes Applications with Helm](https://akomljen.com/package-kubernetes-applications-helm/)
+
 ## Articles
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
