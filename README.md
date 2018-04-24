@@ -83,9 +83,14 @@ kubectl delete pod --namespace=xxxx `kubectl get pods --namespace=xxxx | awk '$3
 
 ## Articles
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
+- [What’s New in Kubernetes 1.10](https://www.youtube.com/watch?v=EbfMEXnm1lo)
+- [Kubernetes 01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/) (2018.03.28)
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
 - [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
 
 ## Links
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
+- [k8s DevStats](https://k8s.devstats.cncf.io/d/12/dashboards)
+- [Certified Kubernetes Components](https://www.cncf.io/certification/software-conformance/)
+- [Kubernetes Icons Set](https://github.com/octo-technology/kubernetes-icons)
 
