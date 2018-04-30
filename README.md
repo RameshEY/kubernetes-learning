@@ -26,11 +26,13 @@
 - [Package your Kubernetes Applications with Helm](https://akomljen.com/package-kubernetes-applications-helm/)
 
 ## Videos
-- [AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)](https://www.youtube.com/watch?v=w34txLmpEuM)
-- [AWS Tel Aviv Summit 2018: Kubernetes on AWS](https://www.youtube.com/watch?v=mfx7whOKUH0)
+- [Running Kubernetes with Amazon EKS - AWS Online Tech Talks](https://youtu.be/rV_NCvs9iGE) (2018.03)
 - [Kubernetes ウェビナー](https://www.youtube.com/watch?v=dA6qa-6ekB0&list=PLlr4ZJV2uX-jS9mSLBvApQApuhkR6u5ES)
   - [01. Kubernetesのエコシステムとその影響](https://youtu.be/dA6qa-6ekB0)
   - [02. Kubernetesの導入事例と最新動向](https://youtu.be/ZOwNeeCVyZk)
+- Mastering Series
+  - [AWS Tel Aviv Summit 2018: Mastering Kubernetes on AWS](https://www.youtube.com/watch?v=mfx7whOKUH0) (2018.03)
+  - [AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)](https://www.youtube.com/watch?v=w34txLmpEuM)
 
 ## Articles
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
