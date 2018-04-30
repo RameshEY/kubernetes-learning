@@ -25,12 +25,20 @@
 - [GCP Kubernetes Workshops](https://github.com/GoogleCloudPlatform/kubernetes-workshops)
 - [Package your Kubernetes Applications with Helm](https://akomljen.com/package-kubernetes-applications-helm/)
 
+## Videos
+- [AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)](https://www.youtube.com/watch?v=w34txLmpEuM)
+- [AWS Tel Aviv Summit 2018: Kubernetes on AWS](https://www.youtube.com/watch?v=mfx7whOKUH0)
+- [Kubernetes ウェビナー](https://www.youtube.com/watch?v=dA6qa-6ekB0&list=PLlr4ZJV2uX-jS9mSLBvApQApuhkR6u5ES)
+  - [01. Kubernetesのエコシステムとその影響](https://youtu.be/dA6qa-6ekB0)
+  - [02. Kubernetesの導入事例と最新動向](https://youtu.be/ZOwNeeCVyZk)
+
 ## Articles
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
 - [What’s New in Kubernetes 1.10](https://www.youtube.com/watch?v=EbfMEXnm1lo)
 - [Kubernetes 01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/) (2018.03.28)
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
 - [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
+
 
 ## Links
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
