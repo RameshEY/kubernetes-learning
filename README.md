@@ -7,7 +7,7 @@
 - [1.7](https://v1-7.docs.kubernetes.io/docs/api-reference/v1.7/)
 - [1.6](https://v1-6.docs.kubernetes.io/docs/api-reference/v1.6/)
 
-## Clustering
+## Clustering & Networking
 - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 
 ## Plugins
@@ -15,6 +15,10 @@
 - [CNCF Networking plugins](https://github.com/containernetworking/plugins)
 - [CNI 3rd party plugins](https://github.com/containernetworking/cni#3rd-party-plugins)
 - [Network plugins for kubernetes](https://www.slideshare.net/inwinstack/network-plugins-for-kubernetes)
+
+## Courses
+- [Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
+- [Kubernetes On The Cloud & The CNCF CKA Certification](https://www.udemy.com/kubernetes-cka-on-cloud/)
 
 ## Tutorials
 - [AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)
