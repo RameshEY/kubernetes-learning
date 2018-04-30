@@ -33,6 +33,9 @@
 - Mastering Series
   - [AWS Tel Aviv Summit 2018: Mastering Kubernetes on AWS](https://www.youtube.com/watch?v=mfx7whOKUH0) (2018.03)
   - [AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)](https://www.youtube.com/watch?v=w34txLmpEuM)
+  
+## Slides
+- [Kubernetes in ZEPL](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/) (DevOps Korea 2018)
 
 ## Articles
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
