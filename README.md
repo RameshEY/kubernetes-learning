@@ -9,6 +9,9 @@
 
 ## Clustering & Networking
 - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+- [A cluster of clusters](https://netbears.com/blog/cross-cloud-kubernetes-cluster-of-clusters/), [repo](https://github.com/netbears/kubernetes-federation-cross-cloud)
+- [Hybrid](https://schd.ws/hosted_files/kccncna17/7a/Kubecon%20-%20v0.2.pdf)
+- [Multi Cloud](https://www.joyent.com/blog/triton-kubernetes-multicloud)
 
 ## Plugins and Addons
 - [Kubernetes Addons](https://github.com/kubernetes/kubernetes/tree/master/cluster/addons)
@@ -37,6 +40,8 @@
   
 ## Slides
 - [Kubernetes in ZEPL](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/) (DevOps Korea 2018)
+- [Kubernetes at GitHub](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf)
+
 
 ## Articles
 - [AWS EKS/ECS and Fargate: Understanding the Differences](https://logz.io/blog/aws-eks-ecs-and-fargate/)
@@ -53,13 +58,29 @@
 - Martin Fowler on the [Pros](http://martinfowler.com/articles/microservices.html) and [Cons](http://martinfowler.com/articles/microservice-trade-offs.html) of Microservices
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c), [12factor.net](https://12factor.net/ko/)
 
+# Autoscaling
+- [Kubernetes Event Based Auto-Scaler](https://help.spotinst.com/hc/en-us/articles/360000280405-Kubernetes-Event-Based-Auto-Scaler-)
+- [Better autoscaling with Prometheus and the Kubernetes Metrics APIs](https://coreos.com/blog/autoscaling-with-prometheus-and-kubernetes-metrics-apis) (2018.01)
+- [Horizontal Pod Autoscaling by memory](https://koudingspawn.de/kubernetes-autoscaling/) (2017.10)
+- [Kubernetes autoscaling based on custom metrics without using a host port](https://medium.com/@marko.luksa/kubernetes-autoscaling-based-on-custom-metrics-without-using-a-host-port-b783ed6241ac) (2017.02)
+- [Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [Kubernetes Horizontal Pod Autoscaler with Prometheus custom metrics](https://github.com/stefanprodan/k8s-prom-hpa)
+
+# Security
+- [Protecting APIs from the DDoS attacks by signing the resource identifiers](https://medium.com/@gajus/protecting-apis-from-the-ddos-attacks-by-signing-the-pks-c1eca7cc7725) (2017.02)
+- [Datacenter Orchestration Security and Insecurity: Assessing Kubernetes, Mesos, and Docker at Scale
+](https://youtu.be/lXggHTqznOI)
+
 ## Tools
+- [kEdge](https://github.com/improbable-eng/kedge)
+- [Kubernetes Pod Chaos Monkey](https://github.com/jnewland/kubernetes-pod-chaos-monkey)
 - [scope](https://github.com/weaveworks/scope)
 - [gcp-live-k8s-visualizer](https://github.com/brendandburns/gcp-live-k8s-visualizer)
 
 ## Links
+- [KubeWeekly](https://kube.news)
+- [KubeCast](https://www.kubecast.com/)
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
 - [k8s DevStats](https://k8s.devstats.cncf.io/d/12/dashboards)
 - [Certified Kubernetes Components](https://www.cncf.io/certification/software-conformance/)
 - [Kubernetes Icons Set](https://github.com/octo-technology/kubernetes-icons)
-
