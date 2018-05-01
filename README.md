@@ -10,7 +10,8 @@
 ## Clustering & Networking
 - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 
-## Plugins
+## Plugins and Addons
+- [Kubernetes Addons](https://github.com/kubernetes/kubernetes/tree/master/cluster/addons)
 - [Extend kubectl with plugins](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/)
 - [CNCF Networking plugins](https://github.com/containernetworking/plugins)
 - [CNI 3rd party plugins](https://github.com/containernetworking/cni#3rd-party-plugins)
@@ -38,12 +39,23 @@
 - [Kubernetes in ZEPL](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/) (DevOps Korea 2018)
 
 ## Articles
+- [AWS EKS/ECS and Fargate: Understanding the Differences](https://logz.io/blog/aws-eks-ecs-and-fargate/)
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
 - [What’s New in Kubernetes 1.10](https://www.youtube.com/watch?v=EbfMEXnm1lo)
 - [Kubernetes 01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/) (2018.03.28)
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
 - [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
 
+## Microservices
+- [Mastering Chaos - A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM) (2017.02)
+- [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg](https://www.youtube.com/watch?v=57UK46qfBLY) (2016.09)
+- [Microservices • Martin Fowler](https://youtu.be/wgdBVIX9ifA) (2014)
+- Martin Fowler on the [Pros](http://martinfowler.com/articles/microservices.html) and [Cons](http://martinfowler.com/articles/microservice-trade-offs.html) of Microservices
+- [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c), [12factor.net](https://12factor.net/ko/)
+
+## Tools
+- [scope](https://github.com/weaveworks/scope)
+- [gcp-live-k8s-visualizer](https://github.com/brendandburns/gcp-live-k8s-visualizer)
 
 ## Links
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
