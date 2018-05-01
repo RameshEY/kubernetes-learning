@@ -7,8 +7,9 @@
 - [1.7](https://v1-7.docs.kubernetes.io/docs/api-reference/v1.7/)
 - [1.6](https://v1-6.docs.kubernetes.io/docs/api-reference/v1.6/)
 
-## Clustering & Networking
+## Networking & Clustering & Federation
 - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+- [Federation](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 - [A cluster of clusters](https://netbears.com/blog/cross-cloud-kubernetes-cluster-of-clusters/), [repo](https://github.com/netbears/kubernetes-federation-cross-cloud)
 - [Hybrid](https://schd.ws/hosted_files/kccncna17/7a/Kubecon%20-%20v0.2.pdf)
 - [Multi Cloud](https://www.joyent.com/blog/triton-kubernetes-multicloud)
@@ -40,8 +41,7 @@
   
 ## Slides
 - [Kubernetes in ZEPL](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/) (DevOps Korea 2018)
-- [Kubernetes at GitHub](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf)
-
+- [Kubernetes at GitHub](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf), [blog](https://githubengineering.com/kubernetes-at-github/)
 
 ## Articles
 - [AWS EKS/ECS and Fargate: Understanding the Differences](https://logz.io/blog/aws-eks-ecs-and-fargate/)
@@ -49,14 +49,8 @@
 - [What’s New in Kubernetes 1.10](https://www.youtube.com/watch?v=EbfMEXnm1lo)
 - [Kubernetes 01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/) (2018.03.28)
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
-- [Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/) (17.08.16)
-
-## Microservices
-- [Mastering Chaos - A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM) (2017.02)
-- [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg](https://www.youtube.com/watch?v=57UK46qfBLY) (2016.09)
-- [Microservices • Martin Fowler](https://youtu.be/wgdBVIX9ifA) (2014)
-- Martin Fowler on the [Pros](http://martinfowler.com/articles/microservices.html) and [Cons](http://martinfowler.com/articles/microservice-trade-offs.html) of Microservices
-- [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c), [12factor.net](https://12factor.net/ko/)
+- [Kubernetes Federation With Google Global Load Balancer](https://ulam.io/blog/kubernetes-federation-with-google-global-load-balancer/) 
+- [Global Kubernetes in 3 Steps](http://cgrant.io/tutorials/gcp/compute/gke/global-kubernetes-three-steps/) (2017.09)
 
 ## Autoscaling
 - [Kubernetes Event Based Auto-Scaler](https://help.spotinst.com/hc/en-us/articles/360000280405-Kubernetes-Event-Based-Auto-Scaler-)
@@ -67,9 +61,17 @@
 - [Kubernetes Horizontal Pod Autoscaler with Prometheus custom metrics](https://github.com/stefanprodan/k8s-prom-hpa)
 
 ## Security
+- [Container Security & Kubernetes at DigitalOcean HQ](https://www.youtube.com/watch?v=j5Mp-VJ-erY)
 - [Protecting APIs from the DDoS attacks by signing the resource identifiers](https://medium.com/@gajus/protecting-apis-from-the-ddos-attacks-by-signing-the-pks-c1eca7cc7725) (2017.02)
 - [Datacenter Orchestration Security and Insecurity: Assessing Kubernetes, Mesos, and Docker at Scale
 ](https://youtu.be/lXggHTqznOI)
+
+## Microservices
+- [Mastering Chaos - A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM) (2017.02)
+- [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg](https://www.youtube.com/watch?v=57UK46qfBLY) (2016.09)
+- [Microservices • Martin Fowler](https://youtu.be/wgdBVIX9ifA) (2014)
+- Martin Fowler on the [Pros](http://martinfowler.com/articles/microservices.html) and [Cons](http://martinfowler.com/articles/microservice-trade-offs.html) of Microservices
+- [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c), [12factor.net](https://12factor.net/ko/)
 
 ## Tools
 - [kEdge](https://github.com/improbable-eng/kedge)
