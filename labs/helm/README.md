@@ -106,7 +106,7 @@ Clean up Kubernetes environment
 kubectl delete -f manifests
 ```
 
-### Fix an latest verion of Helm issues
+### Fix the latest verion of Helm issue
 
 ```
 $ helm repo update
