@@ -21,6 +21,12 @@
 - [CNI 3rd party plugins](https://github.com/containernetworking/cni#3rd-party-plugins)
 - [Network plugins for kubernetes](https://www.slideshare.net/inwinstack/network-plugins-for-kubernetes)
 
+## Packaging: Helm
+- [Manage Helm repositories and deploy charts via REST](https://banzaicloud.com/blog/helm-rest-api/) (2018.04)
+- [Automated rollback of Helm releases based on logs or metrics](http://container-solutions.com/automated-rollback-helm-releases-based-logs-metrics/) (2018.02)
+- [Using Helm to Deploy Blockchain to Kubernetes](https://www.microsoft.com/developerblog/2018/02/09/using-helm-deploy-blockchain-kubernetes/) (2018.02)
+- [Building Helm Charts From the Ground Up](https://youtu.be/vQX5nokoqrQ) (2017.12)
+
 ## Courses
 - [Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
 - [Kubernetes On The Cloud & The CNCF CKA Certification](https://www.udemy.com/kubernetes-cka-on-cloud/)
