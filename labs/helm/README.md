@@ -1,4 +1,4 @@
-# Helm (헤ㄹ~음)
+# Helm (헤을~음)
 
 ### Prerequistes
 
