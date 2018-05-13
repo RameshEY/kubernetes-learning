@@ -89,7 +89,7 @@ Happy Helming!
 Switch to the Minikube context:
 
 ```
-kubectl use-context minicube
+kubectl config use-context minikube
 ```
 
 Create the example Kubernetes:
