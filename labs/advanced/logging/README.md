@@ -96,7 +96,7 @@ kube-scheduler-ip-172-20-43-250.ap-northeast-2.compute.internal            1/1  
 
 Now we have all the logs centralized with LogTrain plugin:
 
-![](kibana-logtrail.png)
+![](images/kibana-logtrail.png)
 
 ## Links
 
