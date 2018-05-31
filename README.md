@@ -28,7 +28,10 @@
 - [Building Helm Charts From the Ground Up](https://youtu.be/vQX5nokoqrQ) (2017.12)
 
 ## Courses
-- [Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
+- [Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615) (Basic)
+- [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course/learn/v4/)
+- [Learn DevOps: Advanced Kubernetes Usage](https://www.udemy.com/learn-devops-advanced-kubernetes-usage/learn/v4/overview)
+- [Learn DevOps: On-Prem or Cloud Agnostic Kubernetes](https://www.udemy.com/learn-devops-on-prem-or-cloud-agnostic-kubernetes/)
 - [Kubernetes On The Cloud & The CNCF CKA Certification](https://www.udemy.com/kubernetes-cka-on-cloud/)
 
 ## Tutorials
