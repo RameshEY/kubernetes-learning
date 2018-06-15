@@ -63,6 +63,7 @@
 - [쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html) (2018.03.13)
 - [Kubernetes Federation With Google Global Load Balancer](https://ulam.io/blog/kubernetes-federation-with-google-global-load-balancer/) 
 - [Global Kubernetes in 3 Steps](http://cgrant.io/tutorials/gcp/compute/gke/global-kubernetes-three-steps/) (2017.09)
+- [Networking Approaches in a Container World](https://events.static.linuxfound.org/sites/events/files/slides/Networking%20approaches%20in%20a%20container%20world.pdf)
 
 ## Autoscaling
 - [Kubernetes Event Based Auto-Scaler](https://help.spotinst.com/hc/en-us/articles/360000280405-Kubernetes-Event-Based-Auto-Scaler-)
