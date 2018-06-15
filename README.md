@@ -13,6 +13,7 @@
 - [A cluster of clusters](https://netbears.com/blog/cross-cloud-kubernetes-cluster-of-clusters/), [repo](https://github.com/netbears/kubernetes-federation-cross-cloud)
 - [Hybrid](https://schd.ws/hosted_files/kccncna17/7a/Kubecon%20-%20v0.2.pdf)
 - [Multi Cloud](https://www.joyent.com/blog/triton-kubernetes-multicloud)
+- [Linux Networking Explained](https://events.static.linuxfound.org/sites/events/files/slides/2016%20-%20Linux%20Networking%20explained_0.pdf)
 - [Choosing a CNI Network Provider for Kubernetes](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
 - [A Hacker’s Guide to Kubernetes Networking](https://thenewstack.io/hackers-guide-kubernetes-networking/)
 - [Kubernetes Networking: Achieving High Performance with Calico](https://platform9.com/blog/kubernetes-networking-achieving-high-performance-with-calico/)
