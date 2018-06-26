@@ -50,7 +50,8 @@
   - [02. Kubernetesの導入事例と最新動向](https://youtu.be/ZOwNeeCVyZk)
 - Mastering Series
   - [AWS Tel Aviv Summit 2018: Mastering Kubernetes on AWS](https://www.youtube.com/watch?v=mfx7whOKUH0) (2018.03)
-  - [AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)](https://www.youtube.com/watch?v=w34txLmpEuM)
+  - [AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)](https://www.youtube.com/watch?v=w34txLmpEuM)  
+- [Role based access control (RBAC) policies in Kubernetes](https://youtu.be/CnHTCTP8d48) (2018.06)
   
 ## Slides
 - [Kubernetes in ZEPL](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/) (DevOps Korea 2018)
