@@ -43,6 +43,9 @@
 - [GCP Kubernetes Workshops](https://github.com/GoogleCloudPlatform/kubernetes-workshops)
 - [Package your Kubernetes Applications with Helm](https://akomljen.com/package-kubernetes-applications-helm/)
 
+## Books
+- [Manage Kubernetes](https://www.safaribooksonline.com/library/view/managing-kubernetes/9781492033905)
+
 ## Videos
 - [Running Kubernetes with Amazon EKS - AWS Online Tech Talks](https://youtu.be/rV_NCvs9iGE) (2018.03)
 - [Kubernetes ウェビナー](https://www.youtube.com/watch?v=dA6qa-6ekB0&list=PLlr4ZJV2uX-jS9mSLBvApQApuhkR6u5ES)
