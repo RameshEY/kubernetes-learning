@@ -100,7 +100,7 @@
 - [scope](https://github.com/weaveworks/scope)
 - [gcp-live-k8s-visualizer](https://github.com/brendandburns/gcp-live-k8s-visualizer)
 
-# Deep Dive
+## Deep Dive - Networking
 - [Introduction to Linux Networking Namespaces](https://youtu.be/_WgUwUf1d34)
 - [CNI/CNM - Introduction Container Networking](https://youtu.be/QMNbgmxmB-M)
 - [Docker Networking Deep Dive, Considerations and Troubleshooting](https://youtu.be/Gwdo3fo6pZg)
