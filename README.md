@@ -1,6 +1,9 @@
 # kubernetes-learning
 
+<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
+
 ## API References
+- [1.11](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.11/)
 - [1.10](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/)
 - [1.9](https://v1-9.docs.kubernetes.io/docs/api-reference/v1.9/)
 - [1.8](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/)
@@ -96,6 +99,21 @@
 - [Kubernetes Pod Chaos Monkey](https://github.com/jnewland/kubernetes-pod-chaos-monkey)
 - [scope](https://github.com/weaveworks/scope)
 - [gcp-live-k8s-visualizer](https://github.com/brendandburns/gcp-live-k8s-visualizer)
+
+# Deep Dive
+- [Introduction to Linux Networking Namespaces](https://youtu.be/_WgUwUf1d34)
+- [CNI/CNM - Introduction Container Networking](https://youtu.be/QMNbgmxmB-M)
+- [Docker Networking Deep Dive, Considerations and Troubleshooting](https://youtu.be/Gwdo3fo6pZg)
+- [Docker LibNetwork Drivers: Explorer's Tale](https://www.youtube.com/watch?v=Dny6R9xn92s)
+- [Introduction to Overlay Networks: The Good, The Bad and The Ugly](https://youtu.be/TPoRwX6WhcU)
+- [Networking for Developers: Flannel, Calico, and Canal](https://youtu.be/3eAVHt3lyuM)
+- [Kubernetes and Calico](https://youtu.be/dFsrx5AxgyI)
+- [Kubernetes Network Hack](https://www.youtube.com/watch?v=3jaZlwM-2rs&list=PLAz0FOwiBi6tVRl4bPbs_G_ucM3N7a1ES)
+- [Kelsey Hightower's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
+- [Understanding kubernetes networking: services](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
+- [Understanding kubernetes networking: ingress](https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078)
+
 
 ## Links
 - [KubeWeekly](https://kube.news)
