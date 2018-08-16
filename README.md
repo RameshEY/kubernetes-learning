@@ -64,6 +64,7 @@
 - [Kubernetes at GitHub](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf), [blog](https://githubengineering.com/kubernetes-at-github/)
 
 ## Articles
+- [Best Practices for Operating Containers](https://cloud.google.com/solutions/best-practices-for-operating-containers)
 - [AWS EKS/ECS and Fargate: Understanding the Differences](https://logz.io/blog/aws-eks-ecs-and-fargate/)
 - [Kubernetes: First Beta Version of Kubernetes 1.10 is Here](https://kubernetes.io/blog/2018/03/first-beta-version-of-kubernetes-1-10)
 - [What’s New in Kubernetes 1.10](https://www.youtube.com/watch?v=EbfMEXnm1lo)
