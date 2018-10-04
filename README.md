@@ -45,6 +45,8 @@
 - [AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [GCP Kubernetes Workshops](https://github.com/GoogleCloudPlatform/kubernetes-workshops)
 - [Package your Kubernetes Applications with Helm](https://akomljen.com/package-kubernetes-applications-helm/)
+- [Kelsey Hightower's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Multinode Kubernetes Cluster](https://github.com/ruzickap/multinode_kubernetes_cluster)
 
 ## Books
 - [Manage Kubernetes](https://www.safaribooksonline.com/library/view/managing-kubernetes/9781492033905)
@@ -110,11 +112,9 @@
 - [Networking for Developers: Flannel, Calico, and Canal](https://youtu.be/3eAVHt3lyuM)
 - [Kubernetes and Calico](https://youtu.be/dFsrx5AxgyI)
 - [Kubernetes Network Hack](https://www.youtube.com/watch?v=3jaZlwM-2rs&list=PLAz0FOwiBi6tVRl4bPbs_G_ucM3N7a1ES)
-- [Kelsey Hightower's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
 - [Understanding kubernetes networking: services](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82)
 - [Understanding kubernetes networking: ingress](https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078)
-
 
 ## Links
 - [KubeWeekly](https://kube.news)
